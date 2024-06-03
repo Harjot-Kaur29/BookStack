@@ -1,0 +1,18 @@
+.sidebar-container {
+    background-color: #f5f5f5; /* Light grey background */
+    padding: 20px; /* Add padding to the container */
+  }
+  
+  /* Adjust margin and padding for Sidebar items */
+  .sidebar-container .fb-Sidebar-Items {
+    margin-top: 20px; /* Add margin to the top */
+  }
+  
+  .sidebar-container .fb-Sidebar-ItemGroup {
+    margin-bottom: 20px; /* Add margin to the bottom */
+  }
+  
+  .sidebar-container .fb-Sidebar-Item {
+    padding: 10px 20px; /* Add padding to the items */
+  }
+  
